@@ -76,6 +76,8 @@ public class FirstClass {
                 b = z;
             }
         }while (z != n);
+        System.out.println("Her hansi herfi basin");
+        in.next();
     }
 
 
